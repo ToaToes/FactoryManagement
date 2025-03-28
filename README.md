@@ -1,4 +1,4 @@
-# FactoryManagement
+# Factory Management
 
 1. Safety <br>
     Assets <br>
@@ -14,3 +14,14 @@
 
 5. Audition <br>
     Check on regular basis <br>
+
+
+# Tracing system
+
+1. Work 
+    Traces of Work 工作留痕
+    Traces of responsibility 责任留痕
+   
+2. Inventory
+   
+3. People
