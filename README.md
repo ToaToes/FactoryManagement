@@ -15,6 +15,8 @@
 5. Audition <br>
     Check on regular basis <br>
 
+6. Condition (Incidents)
+
 
 # Tracing system
 
@@ -26,3 +28,5 @@
     Inventory Alert, 上下限
    
 3. People
+
+4. Incidents
