@@ -23,5 +23,6 @@
     Traces of responsibility 责任留痕 <br>
    
 2. Inventory
+    Inventory Alert, 上下限
    
 3. People
