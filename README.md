@@ -22,7 +22,7 @@
     Traces of Work 工作留痕 <br>
     Traces of responsibility 责任留痕 <br>
    
-2. Inventory
+2. Inventory <br>
     Inventory Alert, 上下限
    
 3. People
